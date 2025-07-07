@@ -9,7 +9,6 @@
     <factorypathentry kind="VARJAR" id="M2_REPO/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/poi/poi/3.9/poi-3.9.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/commons-codec/commons-codec/1.5/commons-codec-1.5.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9.jar" enabled="true" runInBatchMode="false"/>
@@ -68,5 +67,6 @@
     <factorypathentry kind="VARJAR" id="M2_REPO/org/testng/testng/7.4.0/testng-7.4.0.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/beust/jcommander/1.78/jcommander-1.78.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/webjars/jquery/3.5.1/jquery-3.5.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="PLUGIN" id="org.eclipse.jst.ws.annotations.core" enabled="false" runInBatchMode="false"/>
 </factorypath>
